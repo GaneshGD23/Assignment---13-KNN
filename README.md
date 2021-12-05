@@ -1,14 +1,14 @@
 # Assignment-13-KNN
 
-Import the datasets and libraries
+1)Import the datasets and libraries
 
-Data filtering and standardization
+2)Data filtering and standardization
 
-Buliding the model
+3)Buliding the model
 
-Checking the model
+4)Checking the model
 
-Finding optimal number of neighbours and plotting them
+5)Finding optimal number of neighbours and plotting them
 
-Predicting the model value
+6)Predicting the model value
 
